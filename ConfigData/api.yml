@@ -8,7 +8,7 @@ eureka:
 ---
 spring:
   profiles: testlucio
-words: YO,TU,EL,ELLA,ESTO-C6
+words: YO,TU,EL,git,ESTO-C6
   
 ---
 spring:
