@@ -7,8 +7,8 @@ eureka:
 
 ---
 spring:
-  profiles: subject
-words: I,You,He,She,It
+  profiles: testlucio
+words: I,You,He,She,GIT
   
 ---
 spring:
